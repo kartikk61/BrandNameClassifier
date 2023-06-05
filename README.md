@@ -14,14 +14,18 @@ Model is using the "imagenet" weights .
 
 
 ## Website Screenshot
-![Demo](./Screenshot%20from%202023-06-05%2021-34-10.png "Screenshot Website")
+![Demo](https://github.com/kartikk61/BrandNameClassifier/blob/main/Screenshot%20from%202023-06-05%2021-34-10.png?raw=true "Screenshot Website")
 
 ## Terminal run of streamlit
-![Streamlit ss](./Screenshot%20from%202023-06-05%2021-26-05.png)
+![Streamlit ss](https://github.com/kartikk61/BrandNameClassifier/blob/main/Screenshot%20from%202023-06-05%2021-26-05.png?raw=true)
 
+## Model saving 
+
+Save the model using the *.h5* format
 
 ## Streamlit script
 Streamlit script in *application.py* file
+
 Run using
 
     $ streamlit run application.py 
@@ -29,4 +33,3 @@ Run using
 ## Reminder
 DO NOT FORGET TO MAKE *Procfile*
 
-![Logo](https://www.pythonandvba.com/banner-img)

@@ -8,7 +8,7 @@ from tensorflow import keras
 model = keras.models.load_model('model_resnet50.h5')
 
 # Define class labels
-class_labels = ['Audi','Lamborghini','Mercedes']
+class_labels = ['Mercedes','Lamborgini','audi']
 
 def preprocess_image(image):
     # Resize the image to match the input size of the model
